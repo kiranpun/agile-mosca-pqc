@@ -40,4 +40,4 @@ We recognise that a factory sensor has vastly different compute constraints than
 * **Compliance:** NCSC 2035 Roadmap & FIPS 203 (ML-KEM)
 
 ---
-*Built to secure the future of Surrey’s innovation ecosystem.*
+*Built to secure the future.*
